@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+form{
+    margin-top: 250px;
+    margin-bottom: 0px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+.ep::placeholder{
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: 50px;
+}
+
+.text h1{
+    text-transform: capitalize;
+    text-align: center;
+    margin-bottom: 100px;
+    text-shadow: 25px 25px 25px black;
+}
